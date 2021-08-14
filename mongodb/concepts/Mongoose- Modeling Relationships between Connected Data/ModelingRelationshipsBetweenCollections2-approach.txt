@@ -1,0 +1,3 @@
+3rd approach(Hybrid) is used mainly in shopping applications where order and products are different colletions ,but orders need snapshot of products like price
+
+If _id is wrong or not prresent then it will contain NULL

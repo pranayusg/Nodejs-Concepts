@@ -1,0 +1,9 @@
+{"message":"text error","level":"error","service":"user-service","timestamp":"2021-07-31T16:48:13.027Z"}
+{"message":"text info","level":"info","service":"user-service","timestamp":"2021-07-31T16:48:43.590Z"}
+{"message":"text warn","level":"warn","service":"user-service","timestamp":"2021-07-31T16:48:43.594Z"}
+{"message":"text error","level":"error","service":"user-service","timestamp":"2021-07-31T16:48:43.595Z"}
+{"message":"text debug","level":"debug","service":"user-service","timestamp":"2021-07-31T16:48:43.595Z"}
+{"message":"text info","level":"info","service":"user-service","timestamp":"2021-07-31T19:30:44.524Z"}
+{"message":"text warn","level":"warn","service":"user-service","timestamp":"2021-07-31T19:30:44.527Z"}
+{"message":"text error","level":"error","service":"user-service","timestamp":"2021-07-31T19:30:44.527Z"}
+{"message":"text debug","level":"debug","service":"user-service","timestamp":"2021-07-31T19:30:44.527Z"}
